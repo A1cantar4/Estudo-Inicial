@@ -86,11 +86,12 @@ print("O valor de L é maior ou igual a H?", maior_ou_igual)
 # OR = Ou
 # NOT = Não é
 
-#Criando Variável dos operadores lógicos
+# Criando Variável dos operadores lógicos
 Calculo1 = L > 12 
 Calculo2 = H < 12
 Calculo3 = L < 12
 
+# Personalização das Respostas
 if Calculo1:
     Resposta = "Sim"
 else:
